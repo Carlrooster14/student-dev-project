@@ -1,0 +1,28 @@
+===== Journal de bord - student-dev-project =====
+
+Étape 1 : Creation du dossier et des fichiers
+J'ai créé un dossier nommé "student-dev-project" sur mon ordinateur, puis j'ai J'ai créé le fichier index.html contenant ma présentation personnelle, un titre,
+un paragraphe de description et une liste de mes compétences de base en informatique.
+
+Étape 2 : Initialisation du projet
+Puis j'ai initialisé
+un dépôt Git local avec la commande "git init". Cela a créé un dossier caché .git qui
+permet à Git de suivre les modifications du projet.
+
+Étape 3 : Premier commit
+Après avoir créé les fichiers et initialiser, j'ai utilisé "git add ." pour les ajouter à la zone
+de suivi (staging area), puis "git commit -m 'Initial commit'" pour enregistrer
+la première version officielle du projet dans l'historique Git.
+
+Étape 4 : Modification et deuxième commit
+J'ai amélioré le fichier index.html en ajoutant quelque changement. Ensuite, j'ai effectué un nouveau commit pour enregistrer ces changements
+sous une deuxième version du projet.
+
+Étape 5 : Connexion à GitHub et publication
+J'ai créé un dépôt distant sur GitHub portant le même nom "student-dev-project".
+J'ai ensuite lié mon dépôt local au dépôt distant avec la commande :
+"git remote add origin https://github.com/Carlrooster14/student-dev-project.git"
+Enfin, j'ai publié le projet avec "git push -u origin main".
+
+Difficultés rencontrées :
+J'ai eu un problem avec la partie commit, a chaque fois il me disait y a rien a commit alorsque mon projet etait la devant moi. et aussi un problem avec le push a chaque fois ca me demandait si je voulais merge avec je ne sais quoi.
