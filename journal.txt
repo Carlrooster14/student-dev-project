@@ -1,4 +1,4 @@
-===== Journal de bord - student-dev-project =====
+===== Journal student-dev-project =====
 
 Étape 1 : Creation du dossier et des fichiers
 J'ai créé un dossier nommé "student-dev-project" sur mon ordinateur, puis j'ai J'ai créé le fichier index.html contenant ma présentation personnelle, un titre,
